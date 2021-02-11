@@ -1,0 +1,1 @@
+Getting an integer from user then printing first nth tribonacci numbers.
