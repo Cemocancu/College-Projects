@@ -1,0 +1,1 @@
+In this project we used 4 different merge and sort algorithm the see the differences between them.

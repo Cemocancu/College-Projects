@@ -1,0 +1,1 @@
+In this Verilog project we created a simple 4-way traffic light system.
